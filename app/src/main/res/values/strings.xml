@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI Music Generator</string>
+    <string name="app_description">Generate amazing music using artificial intelligence</string>
+</resources>
